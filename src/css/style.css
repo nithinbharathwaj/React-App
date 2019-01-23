@@ -1,0 +1,85 @@
+h1{
+    letter-spacing: 0.1em;
+    font-family: 'Inconsolata', monospace;
+    font-size: 20px;
+    font-weight: bold
+}
+
+.container-fluid {
+    padding: 5px;
+}
+
+glyphicon {
+    color: white !important
+}
+
+li{
+    justify-content: center !important;
+}
+
+ol{
+    justify-content: center !important;
+}
+
+.sitara_home_button{
+    border-radius: 10px;
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:inherit;
+    background-color:#910f14;
+    color: white;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap;
+    letter-spacing: 1x;
+    font-family: 'Open Sans', sans-serif;
+    padding: '10px';
+    font-size: 15px
+}
+
+.no_round {
+    border-radius: 0px;
+}
+
+.sitara_home_button:hover {
+    background-color:#700206;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.navbar-toggle collapsed{
+    margin-top: '20px'
+}
+
+.w3-custom1 {
+    background-color: #621e3f ;
+    color: white ;
+}
+
+.overlay {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+    height: 100%;
+    filter: alpha(opacity = 50); /* required for opacity to work in IE */
+}
+
+.panel {
+    margin-bottom: 5px;
+}
+
+.panel-body {
+    padding: 10px
+}
+
+a:hover{
+    color: black !important;
+}
